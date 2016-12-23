@@ -1,0 +1,32 @@
+#header {
+    color: #607d8b;
+    font-family: "Didact Gothic";
+    background-color: #e0f2f1;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.header-text-main {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+#login-block {
+    display: inline-block;
+    margin-left: 200px;
+}
+
+.user-block {
+  display: inline-block;
+  margin-left: 500px;
+}
+
+.username-header, .admin-panel {
+  font-size: 24px;
+}
