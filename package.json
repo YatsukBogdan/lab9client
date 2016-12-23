@@ -2,7 +2,7 @@
   "name": "lab4",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://lab9ovpserver/",
+  "proxy": "http://lab9ovpserver.herokuapp.com/",
   "devDependencies": {
     "react-scripts": "0.8.1"
   },
